@@ -1,0 +1,3 @@
+﻿  ödev deneme 2.cpp
+C:\Users\yiğit\source\repos\c1\ödev deneme 2\ödev deneme 2\ödev deneme 2.cpp(62,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ödev deneme 2.vcxproj -> C:\Users\yiğit\source\repos\c1\ödev deneme 2\x64\Debug\ödev deneme 2.exe
